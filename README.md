@@ -1,4 +1,4 @@
-# Meal_App
+# Meal_App (NEXTJS 14)
 
 web link deploy [https://cmlabs-frontend-parttime-test.vercel.app/]
 
@@ -8,26 +8,27 @@ web link deploy [https://cmlabs-frontend-parttime-test.vercel.app/]
 
 - Halaman Ingredients
   Requirements:
-  list data ingredients {**complete**}
-  Ingredients Detail {**complete**}
-  fitur Search Ingredients by Name {**complete**}
-  Komponen: List Ingredients, Search Ingredients {**complete**}
+  - list data ingredients {**complete**}
+  - Ingredients Detail {**complete**}
+  - fitur Search Ingredients by Name {**complete**}
+  - Komponen: List Ingredients, Search Ingredients {**complete**}
 
 ####
 
 - Halaman Ingredients Detail
   Requirements:
-  data meal berdasarkan data ingredient yang dipilih, endpoint dari Filter by Ingredients{**complete**}
-  Meals Detail {**complete**}
-  fitur Search Meal by Name di sisi front-end{**complete**}
-  Komponen: List meal dengan gambar, Search Meal{**complete**}
+  - data meal berdasarkan data ingredient yang dipilih, endpoint dari Filter by Ingredients{**complete**}
+  - Meals Detail {**complete**}
+  - fitur Search Meal by Name di sisi front-end{**complete**}
+  - Komponen: List meal dengan gambar, Search Meal{**complete**}
 
 ####
 
 - Halaman Meals Detail
   Requirements:
-  detail meal berdasarkan list yang dipilih {**complete**}
-  Komponen: Gambar Meal, Judul/Nama Meal, Desksripsi/Tutorial, Recipe, Youtube Embedded {**complete**}
+  - detail meal berdasarkan list yang dipilih {**complete**}
+  - Komponen: Gambar Meal, Judul/Nama Meal, Desksripsi/Tutorial, Recipe
+    Youtube Embedded {**complete**}
 
 ## Tech Stack
 
@@ -78,6 +79,8 @@ pnpm dev
 # or
 bun dev
 ```
+
+5. Application will be running on http://localhost:3000
 
 # IMAGE RESULT
 
